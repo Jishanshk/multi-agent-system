@@ -1,0 +1,55 @@
+# ===========================
+# LangChain Ecosystem
+# ===========================
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# ===========================
+# Groq LLM
+# ===========================
+langchain-groq
+groq
+
+# ===========================
+# Search Tool
+# ===========================
+tavily-python
+
+# ===========================
+# Web Scraping
+# ===========================
+beautifulsoup4
+lxml
+requests
+
+# ===========================
+# Environment Variables
+# ===========================
+python-dotenv
+
+# ===========================
+# Data Validation
+# ===========================
+pydantic
+
+# ===========================
+# Console Output
+# ===========================
+rich
+
+# ===========================
+# Async HTTP (Useful for future)
+# ===========================
+httpx
+
+# ===========================
+# Token Counting
+# ===========================
+tiktoken
+
+# ===========================
+# Utilities
+# ===========================
+typing-extensions
