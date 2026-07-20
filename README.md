@@ -53,7 +53,7 @@ Multi-Agent-System/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/multi-agent-system.git
+git clone https://github.com/Jishanshk/multi-agent-system.git
 cd multi-agent-system
 ```
 
@@ -109,7 +109,10 @@ Docker Container
    ↓
 Streamlit Application
 ```
+## 🌐 Deployment
 
+- Successfully deployed on AWS EC2 using Docker
+- Streamlit application accessible through a public IP
 ---
 
 ## 📌 Future Improvements
